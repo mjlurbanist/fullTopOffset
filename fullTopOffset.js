@@ -2,6 +2,7 @@
 * @plugin fullTopOffset.js
 * version: 0.1
 *
+* Licensed under GPL V3
 * https://github.com/mjlurbanist/fullTopOffset
 *
 * Calculates the full top offset of elements including margins.
